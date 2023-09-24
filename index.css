@@ -1,0 +1,35 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	background-image: url('../background pics/background pic 4.jpg');
+	background-position: center;
+	background-size: cover;
+
+}
+.container{
+	margin: 100px auto;
+	text-align: center;
+}
+h1{
+	font-size: 4em;
+	color: rgb(209, 148, 69);
+	font-family: cursive;
+}
+p{
+	font-size: 4em;
+	color: #d86d6d;
+}
+button{
+	border: none;
+	padding: 18px 10px;
+	font-size: 1.2em;
+	width:180px;
+	margin: 10px;
+	border-radius: 15px 50px;
+	background-color:linear-gradient(to left,#d86d6d, #7b0707,);
+}
+button:active{
+	background-color:#7b0707;
+	color:beige
+};
+
